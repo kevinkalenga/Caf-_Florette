@@ -135,7 +135,7 @@ i {
 }
 /*2reme image de notre projet*/
 .img {
-  background: url(/caf-_florette/images/cafe3.jpg) center center/cover;
+  background: url(../images/cafe3.jpg) center center/cover;
   height: 400px;
 }
 /* partie reservation*/
